@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://about.synthesizedangel.com/categories/</loc>
+    <loc>https://angel.synthesizedangel.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://about.synthesizedangel.com/ja/categories/"
+                href="https://angel.synthesizedangel.com/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://about.synthesizedangel.com/categories/"
+                href="https://angel.synthesizedangel.com/categories/"
                 />
   </url><url>
-    <loc>https://about.synthesizedangel.com/</loc>
+    <loc>https://angel.synthesizedangel.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://about.synthesizedangel.com/ja/"
+                href="https://angel.synthesizedangel.com/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://about.synthesizedangel.com/"
+                href="https://angel.synthesizedangel.com/"
                 />
   </url><url>
-    <loc>https://about.synthesizedangel.com/tags/</loc>
+    <loc>https://angel.synthesizedangel.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://about.synthesizedangel.com/ja/tags/"
+                href="https://angel.synthesizedangel.com/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://about.synthesizedangel.com/tags/"
+                href="https://angel.synthesizedangel.com/tags/"
                 />
   </url>
 </urlset>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>合成された天使</title>
-    <link>https://about.synthesizedangel.com/ja/</link>
+    <link>https://angel.synthesizedangel.com/ja/</link>
     <description>Recent content on 合成された天使</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://about.synthesizedangel.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://angel.synthesizedangel.com/ja/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
